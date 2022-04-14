@@ -2,18 +2,18 @@ package com.ivanxc.netcracker.lab.chapter1;
 
 import java.util.Arrays;
 
-public class Runner {
-
     /*
     Exercise 2:     MathUtils.normalizeAngle(int angle);
     Exercise 6:     MathUtils.factorial(int n);
     Exercise 8:     StringUtils.nonemptySubstrings(String str);
     Exercise 13:    MathUtils.randomLotteryCombination();
     Exercise 14:    MathUtils.isMagicSquare();
-     */
+    */
+
+public class Runner {
 
     public static void main(String[] args) {
-//        nonemptySubstringsTest();
+//        normalizeAngleTest();
 //        factorialTest();
 //        nonemptySubstringsTest();
 //        randomLotteryCombinationTest();
